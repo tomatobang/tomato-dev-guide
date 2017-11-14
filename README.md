@@ -10,5 +10,6 @@ dev guide for tomatobang.
 ### FE-Spec
 * [ecomfe/spec](https://github.com/ecomfe/spec)
 * http://alloyteam.github.io/CodeGuide/
+* https://github.com/airbnb/javascript
 
 
